@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a web app that uses the OpenAI api to get users text input and passes to the tts-1-hd audio model","md5":"7b442273117d720e8a775fb4812b9cc3"}]}
